@@ -1,4 +1,3 @@
-# my_new_rails_app
 <div align="center">
   <h1><b>React and Rails One App</b></h1>
 </div>
